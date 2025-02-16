@@ -1,6 +1,7 @@
 # Sloth Bytes Weekly Challenges
 
-Challenges by [The Coding Sloth's](https://www.youtube.com/@TheCodingSloth "Youtube")[Sloth Bytes](https://slothbytes.beehiiv.com/ "Newsletter (go here for the Challenges)")
+Challenges by [The Coding Sloth's](https://www.youtube.com/@TheCodingSloth "Youtube") [Sloth Bytes](https://slothbytes.beehiiv.com/ "Newsletter (go here for the Challenges)")
+
 Done by [me](esieben.net "Personal Website")
 
 ## Year 2025
