@@ -8,7 +8,7 @@ Done by [Eric Sieben](esieben.net "Personal Website")
 
 ### Year 2025
 
-- Week 4: [Censor Words Longer Than Four Characters](W4-Censor_Words_Longer_Than_Four_Characters)
+- Week 2: [Censor Words Longer Than Four Characters](W4-Censor_Words_Longer_Than_Four_Characters)
 - Week 5: [Amateur Hour](W5-Amateur_Hour)
 - Week 6: [Rhyme Time](W6-Rhyme_Time)
 - Week 7: [Remove the Computer Virus](W7-Remove_the_computer_virus)
