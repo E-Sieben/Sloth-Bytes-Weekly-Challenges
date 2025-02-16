@@ -5,5 +5,5 @@ Done by [me](esieben.net "Personal Website")
 
 ## Year 2025
 
-- Week 6: [Rhyme Time]()
-- Week 7: [Remove the computer Virus]()
+- Week 6: [Rhyme Time](Y25-W6-Rhyme-Time)
+- Week 7: [Remove the computer Virus](Y25-W7-Remove_the_computer_virus)
